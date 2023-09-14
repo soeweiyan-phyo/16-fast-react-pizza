@@ -1,4 +1,4 @@
-# Fast React Pizz
+# Fast React Pizzs
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -10,7 +10,7 @@
 7. [Contributing](#contributing)
 
 ## Introduction
-The "16 Fast React Pizza" project is a web application built using React and Vite. It provides a seamless experience for ordering pizzas online. The application is designed to be fast, responsive, and user-friendly.
+The "Fast React Pizza" learning project is a web application built using React and Vite. It provides a seamless experience for ordering pizzas online. The application is designed to be fast, responsive, and user-friendly.
 
 ## Features
 ### Fake User Authentication
@@ -61,6 +61,9 @@ The "16 Fast React Pizza" project is a web application built using React and Vit
   - File: [`apiGeocoding.js`](src/services/apiGeocoding.js)
 - Restaurant API: Used to fetch menu items and manage orders.
   - File: [`apiRestaurant.js`](src/services/apiRestaurant.js)
+
+## Credit
+Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns (by Jonas Schmedtmann) (Udemy)
 
 ## Contributing
 Feel free to fork the project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
