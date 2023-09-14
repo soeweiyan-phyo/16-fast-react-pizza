@@ -7,7 +7,8 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [APIs](#apis)
-7. [Contributing](#contributing)
+7. [Credit](#credit)
+8. [Contributing](#contributing)
 
 ## Introduction
 The "Fast React Pizza" learning project is a web application built using React and Vite. It provides a seamless experience for ordering pizzas online. The application is designed to be fast, responsive, and user-friendly.
